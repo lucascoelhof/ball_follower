@@ -1,0 +1,5 @@
+[colors]
+(19  50 113) 0.000000 7 LargeOrangeBall
+
+[thresholds]
+(47:144, 164:184, 87:107)
