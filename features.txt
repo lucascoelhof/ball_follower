@@ -1,0 +1,8 @@
+
+
+
+
+4 ( ) Use depth to track the shape of the ball
+3 ( ) Use depth sensor to track position of the ball
+2 ( ) Use kinect sensor as RGB camera
+1 ( ) Orange ball tracker 
